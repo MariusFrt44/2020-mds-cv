@@ -1,18 +1,19 @@
 body{
 		font-family: 'Roboto', sans-serif;
 		background-color: #f8f8f8; 
-		margin: 40px;
+		margin: 30px;
 		font-family: 'Open Sans', 'sans-serif';
 		background-color: #fff;
 		color: #444;
+    font-size: 0.8em;
 	}
 
 h1.categorie {
 	 text-align: right; /*alignement du titre au centre*/
 }
 
-h2.categorie {
-	color: #4fa6bd;
+h2.titre {
+	color: #40889b;
 }
 
 h3.phrasedescriptive {
@@ -34,7 +35,6 @@ h1, p {
   margin: 0 0 1em 0;
 }
 
-/* no grid support? */
 .sidebar {
   float: left;
   width: 85%;
