@@ -68,3 +68,11 @@ h3 { text-align: center; /* j'aligne mes sous titre h2 */
   font-size: 42px; /* je met une taille plus petite*/
 
 }
+
+hr {
+  height: 2px;
+  background-color: white;
+  width: 70%;
+  border: 0px;
+  margin-top: -20px;
+}
