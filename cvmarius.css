@@ -5,6 +5,7 @@
   grid-template-columns: 40% 1fr;
   grid-template-rows: 0fr 0.4fr;
   margin: 0 auto;
+  font-family: roboto;
 }
 .wrapper > * {
   background-color: #ABB1BA;
@@ -58,8 +59,12 @@ h1 { text-align: center; /* j'aligne mon titre h1 dans la box */
 
 h2 { text-align: center; /* j'aligne mes sous titre h2 */
   color: #40889b; /* je donne la couleur bleu à mes sous titres h2*/
-  font-size: 1,3em; /* je met une taille plus petite*/
+  font-size: 30px; /* je met une taille plus petite*/
 
 }
 
+h3 { text-align: center; /* j'aligne mes sous titre h2 */
+  color: #40889b; /* je donne la couleur bleu à mes sous titres h2*/
+  font-size: 42px; /* je met une taille plus petite*/
 
+}
